@@ -13,6 +13,10 @@
   "activationEvents": [
     "onStartupFinished"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/halimharis/copy-all-folders-content"
+  },
   "main": "./dist/extension.js",
   "contributes": {
     "commands": [
