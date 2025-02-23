@@ -3,7 +3,7 @@
   "displayName": "Copy All Folder Contents",
   "description": "Copies the contents of a folder to the clipboard",
   "publisher": "AbdulHalim",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "engines": {
     "vscode": "^1.86.0"
   },
